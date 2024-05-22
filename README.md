@@ -1,9 +1,14 @@
-# Numbers
+# Občine
 
-Danes se igramo s števili. Preizkusili bomo API, ki nam vrača zanimive podatke o številih: http://numbersapi.com/ in razširili njegovo uporabo.
+Danes bomo sprogramirali aplikacijo, ki bo omogočala enostaven pregled in iskanje med vsemi osnovnimi šolami v Sloveniji. Zbirka podatkov je prenesena iz [spletne strani](https://paka3.mss.edus.si/registriweb/Seznam1.aspx?Seznam=2010) in pretvorja v [JSON obliko](http://static.404.si/grace/).
 
-- Preverite kakšne vse funkcionalnosti ta API ponuja
-- Uporabite različne shad/cn komponente, da prikažete podatke o številkah na lepši način
+Podrobnejša navodila so predstavljena v spodnjem posnetku, kjer so vidne vse funkcionalnosti. Uporabljaom shadcn/ui in tailwindcss.
+
+V aplikacijo je potrebno dodati:
+
+- Select (za izbiro občine)
+- Input za iskanje po poštni številki
+- V komponenti School dodajte Card in prikažite naslednje podatke: naziv šole, občino, naslov, e-poštni naslov
 
 # Grace React Template
 
