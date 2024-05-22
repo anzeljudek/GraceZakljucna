@@ -10,6 +10,8 @@ V aplikacijo je potrebno dodati:
 - Input za iskanje po poštni številki
 - V komponenti School dodajte Card in prikažite naslednje podatke: naziv šole, občino, naslov, e-poštni naslov
 
+[Navodila](http://static.404.si/grace/navodila.gif)
+
 # Grace React Template
 
 Vsebuje:
